@@ -1,1 +1,5 @@
-# 🍪  Cooking our kernel with CircleCI
+### 🍪  Cooking our kernel with CircleCI
+
+[![CircleCI](https://dl.circleci.com/insights-snapshot/gh/strongreasons/cooking-kernel/circle/cooking/badge.svg?window=7d)](https://app.circleci.com/insights/github/strongreasons/cooking-kernel/workflows/cooking/overview?branch=circle&reporting-window=last-7-days&insights-snapshot=true)
+
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/strongreasons/cooking-kernel/tree/circle.svg?style=shield)](https://dl.circleci.com/status-badge/redirect/gh/strongreasons/cooking-kernel/tree/circle)
